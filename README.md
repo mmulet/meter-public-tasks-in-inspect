@@ -1,5 +1,5 @@
 # METT Public-tasks-in-inspect
-This is a work-in-progress prot of [METR public-tasks](https://github.com/METR/public-tasks) to [Inspect](https://inspect.aisi.org.uk). Until this finishes, you are probably better of using the [inspect-metr-task-bridge](https://github.com/METR/inspect-metr-task-bridge) to run public-tasks in Inspect. 
+This is a work-in-progress prot of [METR public-tasks](https://github.com/METR/public-tasks) to [Inspect](https://inspect.aisi.org.uk). Until this finishes, you are probably better off using the [inspect-metr-task-bridge](https://github.com/METR/inspect-metr-task-bridge) to run public-tasks in Inspect. 
 
 --------
 ## Original Readme
