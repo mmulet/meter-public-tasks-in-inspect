@@ -1,3 +1,9 @@
+# METT Public-tasks-in-inspect
+This is a work-in-progress prot of [METR public-tasks](https://github.com/METR/public-tasks) to [Inspect](https://inspect.aisi.org.uk). Until this finishes, you are probably better of using the [inspect-metr-task-bridge](https://github.com/METR/inspect-metr-task-bridge) to run public-tasks in Inspect. 
+
+--------
+## Original Readme
+
 # METR Example Task Suite (Public)
 
 This repo contains source code for a subset of the tasks used in the HCAST: Human-Calibrated Autonomy Software Tasks paper. They can be used to reproduce the results in the paper.
